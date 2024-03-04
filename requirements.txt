@@ -1,3 +1,10 @@
+# conda activate taskweaver
+# pip install -r requirements.txt
+# python -m taskweaver -p ./project/
+# cd playground/UI
+# chainlit run app.py
+
+
 numpy>=1.24.2
 pandas>=2.0.0
 matplotlib>=3.4
@@ -23,4 +30,12 @@ pytest>=7.0.0
 vcrpy>=5.0.0
 colorama>=0.4.6
 
+# UI
+chainlit==0.7.700
 
+yfinance
+statsmodels
+
+# Misc
+jupyterlab>=3.4.0
+jupyterlab-git>=0.30.1

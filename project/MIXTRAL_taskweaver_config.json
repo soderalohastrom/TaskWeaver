@@ -1,0 +1,6 @@
+{
+"llm.api_base": "http://localhost:1234/v1/",
+"llm.api_key": "null",
+"llm.model": "mixtral-8x7b-instruct-v0.1.Q4_K_M",
+"llm.response" : "text"
+}
